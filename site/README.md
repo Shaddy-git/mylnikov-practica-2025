@@ -1,2 +1,2 @@
-
-## В файлах html есть team.html это страница Участники сайта и index.html (Главная), но я не до конца  разобрался как работает деплой через github pages.
+# Сайт на HTML и CSS
+[Сайт Проекта](https://shaddy-git.github.io/TechAndMP/)
